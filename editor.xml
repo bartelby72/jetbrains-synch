@@ -1,0 +1,13 @@
+<application>
+  <component name="EditorSettings">
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bfixme\b.*MBMB.*" />
+    <filter name="FIXME MBMB">
+      <pattern index="2" />
+    </filter>
+  </component>
+</application>
