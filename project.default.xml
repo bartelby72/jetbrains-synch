@@ -1,0 +1,100 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/mygit/app-based-aegis.low/frontend-radar" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core.low/common-utils" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core.low/declin-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core.low/declin-client-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core.low/service-discovery" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core/project-sample/src/core/src/java/Enterprise/atrt_ent" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core/project-sample/src/core/src/java/tray-launcher" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core/project-sample/src/java/sample-proj" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core/wt-fatjar/src/java/ms-server-wrapper" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core/wt-project-sample/src/core/src/java/Enterprise/atrt_ent" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core/wt-project-sample/src/core/src/java/tray-launcher" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core/wt-ps2/src/java/sample-proj" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core/wt-test/src/core/src/java/tray-launcher" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/core/wt-test/src/java/sample-proj" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/enterprise/project-sample/src/core/src/java/Enterprise/atrt_ent" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/github/Intro-To-RxJava" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/github/reactivex-sandbox" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/github/testserver" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/idtmessaging.low/idtmq-samples/src/java/sample" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/mborch/atrt-configuration" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/mborch/idtmq-sandbox" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/mborch/undertow" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/sandbox/java.tryout/undertow-restserver" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/sawfs/uas/src/core/src/java/tray-launcher" value="PREVIEW" />
+            <entry key="$USER_HOME$/mygit/sawfs/uas/src/srvm/src/java/atrt-enterprise" value="PREVIEW" />
+            <entry key="C:/mygit/sawfs/project-sample/src/core/src/java/atrt-launcher" value="PREVIEW" />
+            <entry key="C:/mygit/sawfs/project-sample/src/core/src/java/tray-launcher" value="PREVIEW" />
+            <entry key="C:/mygit/sawfs/uas/src/core/src/java" value="PREVIEW" />
+            <entry key="C:/mygit/sawfs/uas/src/core/src/java/tray-launcher" value="PREVIEW" />
+            <entry key="C:/mygit/sawfs/uas/src/java" value="PREVIEW" />
+            <entry key="C:/mygit/sawfs/uas/src/java/atrt-service-ext" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+      <component name="RunManager">
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8 (cpt)</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
