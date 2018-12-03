@@ -4,6 +4,7 @@
       <mapping pattern="mock-maker-inline" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="servletcontainerinitializer" type="PLAIN_TEXT" />
+      <mapping ext="props" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
