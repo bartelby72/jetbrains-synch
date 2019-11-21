@@ -3,11 +3,11 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="configure" type="PLAIN_TEXT" />
       <mapping pattern="mock-maker-inline" type="PLAIN_TEXT" />
-      <mapping ext="servletcontainerinitializer" type="PLAIN_TEXT" />
+      <mapping pattern="configure" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="idtml" type="PLAIN_TEXT" />
+      <mapping ext="servletcontainerinitializer" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
